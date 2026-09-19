@@ -1,203 +1,203 @@
 1
-00:00:00,000 --> 00:00:05,964
+00:00:00,000 --> 00:00:05,112
 Lajas, provincia de Chota, Cajamarca. Elecciones municipales del cuatro de octubre de dos
 
 2
-00:00:05,964 --> 00:00:11,928
+00:00:05,112 --> 00:00:10,224
 mil veintiséis. Lidonil Gamonal Tapia, candidato de Cajamarca Renace a la alcaldía
 
 3
-00:00:11,928 --> 00:00:17,892
+00:00:10,224 --> 00:00:15,336
 distrital de Lajas, junto a Gilmer Villalobos González como teniente alcalde. Esta es una
 
 4
-00:00:17,892 --> 00:00:23,856
+00:00:15,336 --> 00:00:20,448
 campaña con los números en la mano.
 
 5
-00:00:24,556 --> 00:00:30,858
+00:00:20,848 --> 00:00:26,253
 Lidonil Gamonal nació y vive en Lajas. Es contador público, formado en la Universidad
 
 6
-00:00:30,858 --> 00:00:37,161
+00:00:26,253 --> 00:00:31,658
 Nacional Pedro Ruiz Gallo, y magíster en Gestión Pública. Durante veintiún años ha sido
 
 7
-00:00:37,161 --> 00:00:43,463
+00:00:31,658 --> 00:00:37,062
 contador de la Municipalidad Provincial de Chota y fue Director de Administración de la
 
 8
-00:00:43,463 --> 00:00:49,766
+00:00:37,062 --> 00:00:42,467
 Subregión Chota. Sabe cómo entra y cómo sale cada sol del Estado. Y con sus camiones y su
 
 9
-00:00:49,766 --> 00:00:56,068
+00:00:42,467 --> 00:00:47,872
 maquinaria ha trabajado el campo y la carretera como cualquier lajeño.
 
 10
-00:00:56,768 --> 00:01:01,802
+00:00:48,272 --> 00:00:52,586
 A su lado va Gilmer Villalobos González, lajeño, profesor formado en la Universidad
 
 11
-00:01:01,802 --> 00:01:06,836
+00:00:52,586 --> 00:00:56,900
 Nacional de Cajamarca, que ha enseñado en el Colegio de Alto Rendimiento de Amazonas y en
 
 12
-00:01:06,836 --> 00:01:11,870
+00:00:56,900 --> 00:01:01,214
 las aulas de nuestra provincia. Él será el teniente alcalde y encabezará el frente de
 
 13
-00:01:11,870 --> 00:01:16,904
+00:01:01,214 --> 00:01:05,528
 educación y juventud.
 
 14
-00:01:17,604 --> 00:01:24,244
+00:01:05,928 --> 00:01:11,616
 Empecemos por la verdad, aunque duela. Lajas está entre los veinticinco distritos más
 
 15
-00:01:24,244 --> 00:01:30,884
+00:01:11,616 --> 00:01:17,304
 pobres de todo el Perú. De mil ochocientos setenta y cuatro distritos, el INEI nos ubica
 
 16
-00:01:30,884 --> 00:01:37,524
+00:01:17,304 --> 00:01:22,992
 en el puesto veintitrés. Siete de cada diez lajeños viven en pobreza.
 
 17
-00:01:38,224 --> 00:01:44,248
+00:01:23,392 --> 00:01:28,560
 Ocho de cada diez viviendas de Lajas no tienen desagüe por red. Y más de una de cada tres
 
 18
-00:01:44,248 --> 00:01:50,272
+00:01:28,560 --> 00:01:33,728
 no tiene agua por tubería. Eso no es una estadística: es la señora que carga el balde, es
 
 19
-00:01:50,272 --> 00:01:56,296
+00:01:33,728 --> 00:01:38,896
 el niño con diarrea, es la enfermedad que se repite.
 
 20
-00:01:56,996 --> 00:02:02,866
+00:01:39,296 --> 00:01:44,326
 De cada cien niños lajeños menores de cinco años, veintitrés tienen desnutrición crónica;
 
 21
-00:02:02,866 --> 00:02:08,737
+00:01:44,326 --> 00:01:49,357
 en el Perú son quince. Y el dato que más preocupa: Lajas se está vaciando. El censo del
 
 22
-00:02:08,737 --> 00:02:14,607
+00:01:49,357 --> 00:01:54,387
 dos mil diecisiete contó once mil setecientos lajeños; el del dos mil veinticinco, diez
 
 23
-00:02:14,607 --> 00:02:20,478
+00:01:54,387 --> 00:01:59,418
 mil ochocientos ochenta y ocho. Nuestros jóvenes se van porque aquí no encuentran agua, ni
 
 24
-00:02:20,478 --> 00:02:26,348
+00:01:59,418 --> 00:02:04,448
 trabajo, ni oportunidad.
 
 25
-00:02:27,048 --> 00:02:33,528
+00:02:04,848 --> 00:02:10,402
 Primer compromiso: agua. Nuestro plan de gobierno, inscrito en el Jurado Nacional de
 
 26
-00:02:33,528 --> 00:02:40,008
+00:02:10,402 --> 00:02:15,955
 Elecciones, compromete la construcción y reconstrucción de los sistemas de agua potable y
 
 27
-00:02:40,008 --> 00:02:46,488
+00:02:15,955 --> 00:02:21,509
 desagüe con biodigestores en las comunidades. Dos comunidades nuevas cada año con agua
 
 28
-00:02:46,488 --> 00:02:52,968
+00:02:21,509 --> 00:02:27,062
 clorada y saneamiento: ocho al dos mil treinta. La plata existe: la municipalidad ejecuta
 
 29
-00:02:52,968 --> 00:02:59,448
+00:02:27,062 --> 00:02:32,616
 nueve de cada diez soles de obras. Lo que falta es ponerla donde cambia la vida.
 
 30
-00:03:00,148 --> 00:03:05,625
+00:02:33,016 --> 00:02:37,710
 Segundo compromiso: ningún niño lajeño con desnutrición que no esté identificado y
 
 31
-00:03:05,625 --> 00:03:11,102
+00:02:37,710 --> 00:02:42,405
 atendido. Padrón nominal de todos los menores de tres años, promotoras de salud pagadas
 
 32
-00:03:11,102 --> 00:03:16,578
+00:02:42,405 --> 00:02:47,099
 por comunidad, Vaso de Leche con leche fresca de nuestros propios ganaderos y convenio con
 
 33
-00:03:16,578 --> 00:03:22,055
+00:02:47,099 --> 00:02:51,794
 la Red de Salud de Chota. Meta: bajar la desnutrición crónica de veintitrés a quince por
 
 34
-00:03:22,055 --> 00:03:27,532
+00:02:51,794 --> 00:02:56,488
 ciento en el dos mil treinta.
 
 35
-00:03:28,232 --> 00:03:34,970
+00:02:56,888 --> 00:03:02,666
 Tercer compromiso: que quedarse en Lajas sea negocio. Escuelas con agua, desagüe, luz e
 
 36
-00:03:34,970 --> 00:03:41,708
+00:03:02,666 --> 00:03:08,444
 internet; academia municipal para que nuestros jóvenes entren a la universidad; asistencia
 
 37
-00:03:41,708 --> 00:03:48,446
+00:03:08,444 --> 00:03:14,222
 técnica agropecuaria, mejoramiento del ganado, riego tecnificado sobre los reservorios y
 
 38
-00:03:48,446 --> 00:03:55,184
+00:03:14,222 --> 00:03:20,000
 caminos vecinales mantenidos con maquinaria propia. Todo eso es competencia municipal.
 
 39
-00:03:55,884 --> 00:04:01,176
+00:03:20,400 --> 00:03:24,936
 ¿Cómo lo vamos a hacer? Con lo que Lidonil sabe hacer: contabilidad limpia, expedientes
 
 40
-00:04:01,176 --> 00:04:06,468
+00:03:24,936 --> 00:03:29,472
 bien hechos y gestión. Dos audiencias públicas al año, tablero de obras en la plaza y en
 
 41
-00:04:06,468 --> 00:04:11,760
+00:03:29,472 --> 00:03:34,008
 internet, y ni un sol de proyectos devuelto. Para que en el dos mil treinta nos las
 
 42
-00:04:11,760 --> 00:04:17,052
+00:03:34,008 --> 00:03:38,544
 cobren.
 
 43
-00:04:17,752 --> 00:04:23,694
+00:03:38,944 --> 00:03:44,042
 Y un dato para el día de la elección: de cada cien electores de Lajas, noventa y dos votan
 
 44
-00:04:23,694 --> 00:04:29,637
+00:03:44,042 --> 00:03:49,139
 aquí, en el pueblo, en cuatro colegios; y uno de cada tres vecinos no fue a votar en
 
 45
-00:04:29,637 --> 00:04:35,579
+00:03:49,139 --> 00:03:54,237
 junio. Hermanos de Cadmalca, de Llangodén, de Pacobamba, de Tauripampa, de Olmos, de
 
 46
-00:04:35,579 --> 00:04:41,522
+00:03:54,237 --> 00:03:59,334
 Pampacancha, de La Sinrra, de Yacochingana, de Churucancha: el cuatro de octubre bajen
 
 47
-00:04:41,522 --> 00:04:47,464
+00:03:59,334 --> 00:04:04,432
 temprano, con la familia, con el vecino.
 
 48
-00:04:48,164 --> 00:04:54,746
+00:04:04,832 --> 00:04:10,478
 Esta vez la diferencia no la va a poner el dinero: la va a poner la gente que se queda a
 
 49
-00:04:54,746 --> 00:05:01,328
+00:04:10,478 --> 00:04:16,124
 construir su Lajas. Lidonil Gamonal Tapia, alcalde. Gilmer Villalobos González, teniente
 
 50
-00:05:01,328 --> 00:05:07,910
+00:04:16,124 --> 00:04:21,770
 alcalde. Cajamarca Renace. Mi Lajas, juntos sí podemos. Todos los datos y el plan completo
 
 51
-00:05:07,910 --> 00:05:14,492
+00:04:21,770 --> 00:04:27,416
 están en el portal de la campaña.
