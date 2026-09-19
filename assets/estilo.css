@@ -58,4 +58,8 @@ table.t th{background:#f0f4f9;color:var(--azul)}
 .equipo{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
 .equipo .card{display:flex;gap:14px;align-items:center}
 .equipo img{width:86px;height:86px;object-fit:cover;object-position:top;border-radius:50%;border:3px solid var(--oro)}
+.galeria{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
+.galeria figure{margin:0;border-radius:12px;overflow:hidden;background:var(--gris);border:1px solid #e3e9f1}
+.galeria img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block}
+.galeria figcaption{font-size:.78rem;color:var(--muted);padding:6px 8px}
 @media print{.nav,.btns{display:none}.eje{box-shadow:none;page-break-inside:avoid;-webkit-print-color-adjust:exact;print-color-adjust:exact}}
